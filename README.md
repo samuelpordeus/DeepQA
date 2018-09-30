@@ -1,5 +1,10 @@
 ## Notas - Samuel
 
+Pra baixar a base que eu tô usando:
+http://opus.nlpl.eu/download.php?f=OpenSubtitles2016/mono/OpenSubtitles2016.raw.pt_br.gz
+
+Sim, são 10gb
+
 Pra rodar exatamente do mesmo jeito que eu, usando a base do OpenSubtitles vocês podem colocar no terminal `sh script.sh` ou simplesmente rodar esse comando:
 ```sh
 ./main.py --modelTag [nome-do-modelo] --corpus opensubs --filterVocab 20 --numEpochs 30 --saveEvery 500
