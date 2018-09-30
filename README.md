@@ -1,3 +1,22 @@
+## Notas - Samuel
+
+Pra rodar exatamente do mesmo jeito que eu, usando a base do OpenSubtitles vocês podem colocar no terminal `sh script.sh` ou simplesmente rodar esse comando:
+```sh
+./main.py --modelTag [nome-do-modelo] --corpus opensubs --filterVocab 20 --numEpochs 30 --saveEvery 500
+
+```
+
+Aqui vão mais alguns comandos bons pra se usar:
+```sh
+# Teste com perguntas do arquivo data/test/samples.txt (eu traduzi pra português)
+./main.py --test
+
+# Teste interativo
+./main.py --test interactive
+```
+
+Recomendo que usem um `./main.py --help` pra ver o que cada flag faz, qualquer coisa podem falar comigo.
+
 # Deep Q&A
 [![Join the chat at https://gitter.im/chatbot-pilots/DeepQA](https://badges.gitter.im/chatbot-pilots/DeepQA.svg)](https://gitter.im/chatbot-pilots/DeepQA?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 

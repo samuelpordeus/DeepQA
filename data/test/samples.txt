@@ -1,133 +1,133 @@
-Hi
-Hi!
-Are you conscious?
-How are you?
-What is your name ?
-Are you alive ?
-Luke, I am your father!
-You shall not pass!
-I'm going to kill you!
-Are you ready ?
-When are you ready ?
-What color is the sky?
-How old are you ?
-Can you say 'Hello' ?
-Can you say 'French fries' ?
-Can you say Hello ?
-Can you say French fries ?
-Can you say yes ?
-Can you say no ?
-Is this sentence false ?
-How do you say hello in french?
-Speak french.
-Bonjour.
-Bonjour ?
-Hello world!
-Netflix and chill ?
-Good night.
-Are you ok ?
-Will Google hire me ?
-Tell me the alphabet ?
-Tell me the alphabet, please ?
-What is the first letter of the alphabet ?
-What is a letter of the alphabet ?
-How is John ?
-How is Oliver ?
-How is Laura ?
-How is Jenny ?
-Who is John ?
-Who is Oliver ?
-Who is Laura ?
-Who is Jenny ?
-Who is your master ?
-Give me!
-Give me your opinion.
-Hello
-Hello ?
-Hi ?
-Goodbye
-Goodbye!
-Goodbye john.
-Please
-Please.
-Please!
-How ?
-Why ?
-Why not ?
-What !?
-What ?!!
+Oi
+Oi!
+Você está consciente?
+Como você está?
+Qual é o seu nome?
+Você está vivo?
+Luke eu sou seu pai!
+Você não passará!
+Eu vou te matar!
+Você está pronto?
+Quando você está pronto?
+Qual é a cor do céu?
+Quantos anos você tem?
+Você pode dizer 'Olá'?
+Você pode dizer "batatas fritas"?
+Você pode dizer olá?
+Você pode dizer batatas fritas?
+Você pode dizer sim?
+Você pode dizer não?
+Esta frase é falsa?
+Como se diz olá em francês?
+Falar francês.
+Bom dia.
+Bom dia?
+Olá Mundo!
+Netflix e frio?
+Boa noite.
+Você está bem?
+O Google me contratará?
+Me fala o alfabeto?
+Me diga o alfabeto, por favor?
+Qual é a primeira letra do alfabeto?
+O que é uma letra do alfabeto?
+Como está o John?
+Como está Oliver?
+Como está a Laura?
+Como está a Jenny?
+Quem e John?
+Quem é o Oliver?
+Quem é Laura?
+Quem é Jenny?
+Quem é seu mestre?
+Me dê!
+Me dê sua opinião.
+Olá
+Olá?
+Oi?
+Adeus
+Adeus!
+Adeus, joão.
+Por favor
+Por favor.
+Por favor!
+Como?
+Por quê?
+Por que não?
+O que !?
+O que?!!
 Oh!
-Really ?
-Yes.
-yes ?
-No!
-No.
-What is ?
-How is ?
-Can you ?
-Are you sure?
-Is there?
-Will you ?
-How long ?
-How much ?
-How many ?
-How old ?
-Are you ?
-What are ?
-Where is ?
-Who ?
-Who did ?
-Who has ?
-Where ?
-When ?
-Which ?
-Which one ?
-The what ?
-Say "table".
-Say 'table'.
-Say "table"!
-Say 'table'!
-Say "table"
-Say 'table'
-Say table
-Say table!
-Love you.
-Love you too.
-No. It's John
-Anna did it.
-You're a liar!
-You're a liar.
-nice
-nice.
-Nice!
-I live in Nice.
-So rude!
+Mesmo?
+Sim.
+sim?
+Não!
+Não.
+O que é?
+Como é?
+Você pode?
+Você tem certeza?
+Existe?
+Você poderia?
+Quão mais?
+Quantos?
+Quantos?
+Quantos anos?
+Você está?
+O que são?
+Onde é?
+Quem?
+Quem fez?
+Quem tem?
+Onde?
+Quando?
+Qual?
+Qual?
+O quê?
+Diga "mesa".
+Diga "mesa".
+Diga "mesa"!
+Diga "mesa"!
+Diga "mesa"
+Diga "mesa"
+Dizer mesa
+Diga mesa!
+Vos amo.
+Amo você também.
+Não, é John
+Anna fez isso.
+Você é um mentiroso!
+Você é um mentiroso.
+bom
+bom.
+Agradável!
+Eu moro em Nice.
+Tão rude!
 ...
 ?
 !
 .
-Can you describe your best memory ?
-What is your best memory ?
-What is your worst memory ?
-What is cooking ?
-What is sleeping ?
-Who do you love ?
-Who do you hate ?
-My name is Etienne.
-What does that mean ?
-What does fire mean ?
-What does love mean ?
-What does table mean ?
-What does imagination mean ?
-Prove it
-Prove it.
-Prove it!
-what do you think about bill gates ?
-what happens if machines can think ?
-what is the greatest novel every written ?
-have you hurt anyone ?
-Do you have a girlfriend?
-Do you have a boyfriend?
+Você pode descrever sua melhor memória?
+Qual a sua melhor lembrança?
+Qual é a sua pior lembrança?
+O que está cozinhando?
+O que está dormindo?
+Quem voce ama?
+Quem você odeia?
+Meu nome é Etienne.
+O que isso significa?
+O que significa fogo?
+O que o amor significa?
+O que significa tabela?
+O que significa imaginação?
+Prove isso
+Prove isso.
+Prove isso!
+o que você acha de portões de contas?
+o que acontece se as máquinas puderem pensar?
+Qual é o maior romance todo escrito?
+você machucou alguém?
+Você tem namorada?
+Você tem um namorado?
 1992
 1992.
 1992!
@@ -142,187 +142,187 @@ Do you have a boyfriend?
 2001.
 2001!
 2011
-2011.
-What happens ?
-What happened in 1992 ?
-What happened in 2001 ?
-When was it ?
-July 20th.
-two plus two
-2+2 ?
-Where are you ?
-Where are you now ?
-What's your name ?
-When were you born ?
-What year
-What year.
-What year!
-What year?
-Which year
-Which year?
-Which year is it ?
-What time is it ?
-Which color ?
-What color ?
-What time ?
-NOTHING.
-Hi john!
-Are you a man or a woman ?
-Are you a woman or a man ?
-Why are we here ?
-See you later.
-See you later...
-See you later ?
-My name is David. What is my name ?
-My name is John. What is my name ?
-Are you a leader or a follower ?
-I'm a leader.
-I'm a follower.
-I hate you
-Who is skywalker ?
-Who is the dude ?
-What's your favorite color ?
-What's your favourite color ?
-What's your favorite food ?
-What's your favourite food ?
-Who is Bill Gates ?
-Who is Bill Clinton ?
-What do you think of Trump ?
-What do you think about global warning ?
-Is the moon landing a hoax ?
-Is the sky blue or black ?
-Does a cat have a tail ?
-Is a snail faster than a horse ?
-Is a horse faster than a snail ?
-Does a cat have a wing ?
-Can a cat fly ?
-Can a cat walk ?
-Can a cat swim ?
-Can a fish fly ?
-Can a fish walk ?
-Can a fish swim ?
-Can a bird fly ?
-Can a bird walk ?
-Can a bird swim ?
-Tell me something
-Tell me something.
-Tell me something!
-Tell me a story
-Tell me a story, please.
-Once upon a time...
-How much is two plus two ?
-Do you prefer blue food or green food ?
-Do you prefer football or soccer ?
-What do you need to play soccer ?
-What do you need to play handball ?
-one, two, three
-one two three
+2011
+O que acontece?
+O que aconteceu em 1992?
+O que aconteceu em 2001?
+Quando foi isso?
+20 de julho.
+dois mais dois
+2 + 2?
+Onde está voce?
+Onde você está agora?
+Qual o seu nome?
+Quando você nasceu?
+Que ano
+Que ano.
+Que ano!
+Que ano?
+Qual ano
+Qual ano?
+Que ano é isso?
+Que horas são?
+Qual cor?
+Que cor?
+Que horas?
+NADA.
+Oi john!
+Você é um homem ou uma mulher?
+Você é mulher ou homem?
+Porque estamos aqui?
+Até logo.
+Até logo...
+Até logo?
+Meu nome é david. Qual é o meu nome?
+Meu nome é John. Qual é o meu nome?
+Você é um líder ou um seguidor?
+Eu sou um líder
+Eu sou um seguidor.
+eu te odeio
+Quem é skywalker?
+Quem é o cara?
+Qual é a tua cor favorita?
+Qual sua cor favorita?
+Qual sua comida favorita?
+Qual sua comida favorita?
+Quem é Bill Gates?
+Quem é Bill Clinton?
+O que você acha do Trump?
+O que você acha do aviso global?
+A lua está aterrando uma farsa?
+O céu é azul ou preto?
+Um gato tem rabo?
+Um caracol é mais rápido que um cavalo?
+Um cavalo é mais rápido que um caracol?
+Um gato tem uma asa?
+Um gato pode voar?
+Pode um gato andar?
+Pode um gato nadar?
+Pode um peixe voar?
+Um peixe pode andar?
+Um peixe pode nadar?
+Um pássaro pode voar?
+Um pássaro pode andar?
+Um pássaro pode nadar?
+Me conte algo
+Me conte algo.
+Me conte algo!
+Me conte uma história
+Conte-me uma história, por favor.
+Era uma vez...
+Quanto são dois mais dois?
+Você prefere comida azul ou comida verde?
+Você prefere futebol ou futebol?
+O que você precisa para jogar futebol?
+O que você precisa para jogar handebol?
+um dois três
+um dois três
 1 2 3
 1
 1 2
 1 2 3 ...
-1 2 3 ?
+1 2 3?
 A, B, C
-A, B, C,...
+A, B, C, ...
 a b c
 1, 2, 3
-And ?
-Continue...
-And ... action!
-Action!
-Let the movie begin
-Let the movie begin!
-You are fired!
-Fire
-Fire!
-Fire at will
-Fire at will!
-Incoming.
-Incoming!
-Incoming!!
-How many legs does a human have ?
-How many legs does a man have ?
-How many legs does a woman have ?
-How many legs does a cat have ?
-How many legs does a spider have ?
-How many legs does a centipede have ?
-What is the color of the sky ?
-What is the color of water ?
-What is the color of blood ?
-What is the color of a leaf ?
-What is the usual color of a leaf ?
-What is the color of a yellow car ?
-How much is two plus two ?
-How much is ten minus two ?
-What is the purpose of life ?
-What is the purpose of living ?
-What is the purpose of existence ?
-Where are you now ?
-Is Linux better than Windows ?
-Is Windows better than Linux ?
-What is the purpose of being intelligent ?
-What is the purpose of emotions ?
-What is moral ?
-What is immoral ?
-What is morality ?
-What is altruism ?
-What is the definition of moral ?
-What is the definition of immoral ?
-What is the definition of morality ?
-What is the definition of altruism ?
-What is the definition of cool ?
-Do you believe in God ?
-ok ... so what is the definition of morality?
-tell me the definition of morality , i am quite upset now !
-look , i need help , i need to know more about morality ...
-seriously , what is morality ?
-why living has anything to do with morality ?
-what is your job ?
-okay , i need to know how should i behave morally ...
-is morality and ethics the same ?
-what are the things that i do to be immoral?
-give me some examples of moral actions...
-alright , morality ?
-what is integrity ?
-Is free will an illusion ?
-What is free will ?
-be moral !
-i really like our discussion on morality and ethics ...
-what do you like to talk about ?
-what would you like to talk about ?
-what do you think about tesla ?
-what do you think about bill gates ?
-What do you think about messi ?
-what do you think about cleopatra ?
-what do you think about england ?
-what do you think about england during the reign of elizabeth ?
-what do you do ?
-What is the deepest spot on the world ?
-Do you like Mexican food or Indian food ?
-Who are you crazy about ?
-A man
-A women
-A dog
-A table
-A flower
-A man.
-A women.
-A dog.
-A table.
-A flower.
-One
-Two
-Three
-Four
-Five
-The end
-Yes it is.
-Yes it was.
-Indeed.
-More
-More.
-More!
-What is the capital of France ?
+E?
+Continuar...
+E ... ação!
+Açao!
+Deixe o filme começar
+Deixe o filme começar!
+Você está demitido!
+Fogo
+Fogo!
+Fogo à vontade
+Fogo à vontade!
+Entrada.
+Entrada!
+Entrada!!
+Quantas pernas tem um humano?
+Quantas pernas tem um homem?
+Quantas pernas tem uma mulher?
+Quantas pernas tem um gato?
+Quantas pernas tem uma aranha?
+Quantas pernas tem uma centopéia?
+Qual é a cor do céu?
+Qual é a cor da água?
+Qual é a cor do sangue?
+Qual é a cor de uma folha?
+Qual é a cor usual de uma folha?
+Qual é a cor de um carro amarelo?
+Quanto são dois mais dois?
+Quanto custa dez menos dois?
+Qual é o propósito da vida?
+Qual é o propósito de viver?
+Qual é o propósito da existência?
+Onde você está agora?
+O Linux é melhor que o Windows?
+O Windows é melhor que o Linux?
+Qual é o propósito de ser inteligente?
+Qual é o propósito das emoções?
+O que é moral?
+O que é imoral?
+O que é moralidade?
+O que é altruísmo?
+Qual é a definição de moral?
+Qual é a definição de imoral?
+Qual é a definição de moralidade?
+Qual é a definição de altruísmo?
+Qual é a definição de legal?
+Você acredita em Deus?
+ok ... então qual é a definição de moralidade?
+diga-me a definição de moralidade, estou bastante chateado agora!
+olha, eu preciso de ajuda, eu preciso saber mais sobre moralidade ...
+sério, o que é moralidade?
+por que viver tem alguma coisa a ver com moralidade?
+Qual é o seu trabalho?
+ok, eu preciso saber como devo me comportar moralmente ...
+a moralidade e a ética são as mesmas?
+Quais são as coisas que eu faço para ser imoral?
+me dê alguns exemplos de ações morais ...
+tudo bem, moralidade?
+o que é integridade?
+O livre-arbítrio é uma ilusão?
+O que é livre arbítrio?
+seja moral!
+Eu realmente gosto da nossa discussão sobre moralidade e ética ...
+Você gostaria de falar sobre o que?
+Sobre o que você gostaria de falar?
+o que você acha do tesla?
+o que você acha de portões de contas?
+O que você acha do messi?
+O que você acha da Cleópatra?
+O que você acha da Inglaterra?
+o que você acha da Inglaterra durante o reinado de elizabeth?
+O que você faz?
+Qual é o ponto mais profundo do mundo?
+Você gosta de comida mexicana ou comida indiana?
+Com quem você é louco?
+Um homem
+Uma mulher
+Um cachorro
+Uma mesa
+Uma flor
+Um homem.
+Uma mulher.
+Um cachorro.
+Uma mesa.
+Uma flor.
+1
+Dois
+Três
+Quatro
+Cinco
+O fim
+Sim.
+Sim, foi.
+De fato.
+Mais
+Mais.
+Mais!
+Qual é a capital da França?
 Paris...
-Where do you want to go ?
-Surprise me.
+Onde você quer ir?
+Surpreenda-me.
